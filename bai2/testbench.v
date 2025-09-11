@@ -1,4 +1,4 @@
-timescale 1ns / 1ps
+`timescale 1ns / 1ps
 module testbench;
     reg [3:0] a,b;
     wire [3:0] s;
