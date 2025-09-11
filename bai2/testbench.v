@@ -11,7 +11,9 @@ module testbench;
         .c_out(c_out)
     );
 
+    //test cases
     initial begin
+        //not overflow
         a=4'd0;
         b=4'd0;
         #10;
