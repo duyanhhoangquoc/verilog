@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/fpga_vhdl/baivn2-1-a/simulation/modelsim
+vcomp_8bit_parallel
+!s110 1759373744
+!i10b 1
+!s100 f[S52glT911og^3iP``kn3
+IZ:Ke7AAZAZ[Zc;amDhe[^0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759373513
+8D:/fpga_vhdl/baivn2-1-a/comp_8bit_parallel.v
+FD:/fpga_vhdl/baivn2-1-a/comp_8bit_parallel.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1759373744.000000
+!s107 D:/fpga_vhdl/baivn2-1-a/comp_8bit_parallel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/fpga_vhdl/baivn2-1-a|D:/fpga_vhdl/baivn2-1-a/comp_8bit_parallel.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/fpga_vhdl/baivn2-1-a
+tCvgOpt 0

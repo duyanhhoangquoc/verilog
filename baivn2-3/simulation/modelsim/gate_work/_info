@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/fpga_vhdl/baivn2-3/simulation/modelsim
+vsimple_alu
+Z1 !s110 1759376026
+!i10b 1
+!s100 6R36EGYeV7C3XF8Ok]U2i0
+Ia[OT_9U=;9_ZeUNm@^Ra[1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759376018
+8simple_alu.vo
+Fsimple_alu.vo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1759376026.000000
+!s107 simple_alu.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|simple_alu.vo|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+.
+Z6 tCvgOpt 0
+vsimple_alu_tb
+R1
+!i10b 1
+!s100 k7YhRGmBnUL9DoPbo@JD71
+IV<LWc;cLzZBhPG1fBSzO^2
+R2
+R0
+w1759375890
+8D:/fpga_vhdl/baivn2-3/testbench.v
+FD:/fpga_vhdl/baivn2-3/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/fpga_vhdl/baivn2-3/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/fpga_vhdl/baivn2-3|D:/fpga_vhdl/baivn2-3/testbench.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/fpga_vhdl/baivn2-3
+R6
